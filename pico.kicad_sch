@@ -23310,22 +23310,6 @@
 			)
 		)
 	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 201.295 128.905) (xy 250.19 177.8) (xy 295.275 132.715) (xy 295.275 123.19) (xy 280.035 107.95)
-				(xy 222.25 107.95)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 65a34bf4-5ed4-492a-ab90-578bf69ad8f8)
-		)
-	)
 	(symbol
 		(lib_id "power:GND")
 		(at 92.71 129.54 0)
