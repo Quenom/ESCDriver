@@ -2701,6 +2701,16 @@
 	)
 	(wire
 		(pts
+			(xy 103.505 97.79) (xy 106.68 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24172b1e-e7a1-4772-8cac-cc084c9d8898")
+	)
+	(wire
+		(pts
 			(xy 104.14 82.55) (xy 92.71 82.55)
 		)
 		(stroke
@@ -4223,7 +4233,7 @@
 	)
 	(hierarchical_label "+BATT"
 		(shape input)
-		(at 106.68 97.79 180)
+		(at 103.505 97.79 180)
 		(effects
 			(font
 				(size 1.27 1.27)
