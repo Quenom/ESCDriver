@@ -3857,7 +3857,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "001ee6b6-d225-4bf8-bd23-72fbae802cee")
+		(uuid "001ee6b6-d225-4bf8-bd23-72fbae802cef")
 	)
 	(label "Z"
 		(at 218.44 44.45 0)
@@ -3867,7 +3867,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "001ee6b6-d225-4bf8-bd23-72fbae802cee")
+		(uuid "001ee6b6-d225-4bf8-bd23-72fbae802cf0")
 	)
 	(label "Y_S_M"
 		(at 130.81 44.45 0)
@@ -4087,7 +4087,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "a80dbd63-b812-477b-ac1a-cbae9d036d9b")
+		(uuid "a80dbd63-b812-477b-ac1a-cbae9d036d9c")
 	)
 	(label "Y_L"
 		(at 105.41 118.11 180)
@@ -4252,7 +4252,7 @@
 			)
 			(justify left)
 		)
-		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf985")
+		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf986")
 	)
 	(hierarchical_label "PWM_Z_L"
 		(shape input)
@@ -4263,7 +4263,7 @@
 			)
 			(justify left)
 		)
-		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf985")
+		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf987")
 	)
 	(hierarchical_label "PWM_Y_H"
 		(shape input)
@@ -4274,7 +4274,7 @@
 			)
 			(justify left)
 		)
-		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf985")
+		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf988")
 	)
 	(hierarchical_label "PWM_X_H"
 		(shape input)
@@ -4285,7 +4285,7 @@
 			)
 			(justify left)
 		)
-		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf985")
+		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf989")
 	)
 	(hierarchical_label "PWM_X_L"
 		(shape input)
@@ -4296,7 +4296,7 @@
 			)
 			(justify left)
 		)
-		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf985")
+		(uuid "56c962a9-4d6a-4dc8-8107-e59f7a4cf98a")
 	)
 	(hierarchical_label "DI"
 		(shape input)
@@ -4318,7 +4318,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08eb")
 	)
 	(hierarchical_label "EN"
 		(shape input)
@@ -4329,7 +4329,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ec")
 	)
 	(hierarchical_label "CS"
 		(shape input)
@@ -4340,7 +4340,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ed")
 	)
 	(hierarchical_label "CLK"
 		(shape input)
@@ -4351,7 +4351,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ee")
 	)
 	(hierarchical_label "VREF"
 		(shape input)
@@ -4362,7 +4362,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ef")
 	)
 	(hierarchical_label "ADC_A"
 		(shape input)
@@ -4373,7 +4373,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08f0")
 	)
 	(hierarchical_label "FAULT"
 		(shape input)
@@ -4384,7 +4384,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08f1")
 	)
 	(hierarchical_label "ADC_B"
 		(shape input)
@@ -4395,7 +4395,7 @@
 			)
 			(justify left)
 		)
-		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08ea")
+		(uuid "5d1b4b62-6056-425d-94a0-269bd06f08f2")
 	)
 	(hierarchical_label "+BATT"
 		(shape input)
