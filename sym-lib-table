@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EasyEDA_Lib")(type "EasyEDA (JLCEDA) Pro")(uri "${KIPRJMOD}/EasyEDA_Lib/EasyEDA_Lib.elibz")(options "")(descr ""))
+  (lib (name "JLCPCB_Embedded_Processors_Controllers")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Embedded_Processors_Controllers.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_Power_Management_ICs")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Power_Management_ICs.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_Triode_MOS_Tube_Transistor")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Triode_MOS_Tube_Transistor.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_Power_Supply_Chip")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Power_Supply_Chip.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_Industrial_Control_Electrical")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Industrial_Control_Electrical.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_Transistors")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Transistors.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_ADC_DAC_Data_Conversion")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_ADC_DAC_Data_Conversion.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB_Transistors_Thyristors")(type "KiCad")(uri "${KIPRJMOD}/library/JLCPCB_Transistors_Thyristors.kicad_sym")(options "")(descr ""))
+)

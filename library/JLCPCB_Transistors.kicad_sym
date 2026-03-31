@@ -1,0 +1,112 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/uPesy/easyeda2kicad.py)
+    (symbol "IRFS7434TRL7PP"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "Q"
+      
+      (at 0 12.70 0)
+      (effects (font (size 1.27 1.27) ) )
+    )
+    (property
+      "Value"
+      "IRFS7434TRL7PP"
+      
+      (at 0 -10.16 0)
+      (effects (font (size 1.27 1.27) ) )
+    )
+    (property
+      "Footprint"
+      "JLCPCB_Transistors:D2PAK-7_L10.6-W9.6-P1.27-LS15.9-BR"
+      
+      (at 0 -12.70 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/MOSFET_Infineon-Technologies-IRFS7434TRL7PP_C538029.html"
+      
+      (at 0 -15.24 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C538029"
+      
+      (at 0 -17.78 0)
+      (effects (font (size 1.27 1.27) ) hide)
+    )
+    (symbol "IRFS7434TRL7PP_0_1"
+      (rectangle
+        (start -5.08 10.16)
+        (end 2.54 -7.62)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (circle
+        (center -3.81 8.89)
+        (radius 0.38)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (pin unspecified line
+        (at 5.08 2.54 180)
+        (length 2.54)
+        (name "D" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 -5.08 0)
+        (length 2.54)
+        (name "S" (effects (font (size 1.27 1.27))))
+        (number "7" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 -2.54 0)
+        (length 2.54)
+        (name "S" (effects (font (size 1.27 1.27))))
+        (number "6" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 -0.00 0)
+        (length 2.54)
+        (name "S" (effects (font (size 1.27 1.27))))
+        (number "5" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 2.54 0)
+        (length 2.54)
+        (name "S" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 5.08 0)
+        (length 2.54)
+        (name "S" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line
+        (at -7.62 7.62 0)
+        (length 2.54)
+        (name "G" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+    )
+    (property "Manufacturer" "Infineon Technologies" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Description" "40V 362A 1mΩ@10V,100A 245W 3V@250uA 1 N-channel" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Continuous Drain Current (Id)" "362A" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Input Capacitance (Ciss@Vds)" "10250pF" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Operating Temperature" "-55℃~+150℃" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Type" "1 N-channel" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Drain Source Voltage (Vdss)" "40V" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Power Dissipation (Pd)" "245W" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Gate Threshold Voltage (Vgs(th)@Id)" "3V@250uA" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Reverse Transfer Capacitance (Crss@Vds)" "1060pF" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Drain Source On Resistance (RDS(on)@Vgs,Id)" "1mΩ@10V,100A" (effects (font (size 1.27 1.27)) (hide yes)))
+    (property "Total Gate Charge (Qg@Vgs)" "315nC" (effects (font (size 1.27 1.27)) (hide yes)))
+  )
+
+)
