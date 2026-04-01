@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -704,6 +704,10 @@
     [
       "537b2480-b548-4241-85f3-82c8c331fbc8",
       "MotorDriver"
+    ],
+    [
+      "6e86cff2-a1bf-4fce-912d-4a5b659942a3",
+      "MotorDriver1"
     ]
   ],
   "text_variables": {}

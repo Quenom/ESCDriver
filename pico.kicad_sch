@@ -22100,6 +22100,28 @@
 			)
 		)
 	)
+	(global_label "PWM_B_Z_H"
+		(shape input)
+		(at 304.8 61.595 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "07b72e81-d172-416f-94b1-aece79901bc3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.6708 61.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PWM_A_Z_L"
 		(shape input)
 		(at 68.58 59.69 180)
@@ -22140,6 +22162,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_B_Y_L"
+		(shape input)
+		(at 304.8 57.785 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "199c6110-c8a6-4250-a1d4-6f0d51bccf14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.2475 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -22320,6 +22364,28 @@
 			)
 		)
 	)
+	(global_label "SPI0_CLK"
+		(shape input)
+		(at 270.51 55.245 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "375552b8-7df6-44c9-8f9b-d696c18dd6be")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 258.6953 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI1_RX"
 		(shape input)
 		(at 68.58 54.61 180)
@@ -22338,6 +22404,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_B_X_H"
+		(shape input)
+		(at 304.8 48.895 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "39030cc3-58de-47c1-8a4a-9068edb66842")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.6708 48.895 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -22452,6 +22540,28 @@
 			)
 		)
 	)
+	(global_label "PWM_B_Z_L"
+		(shape input)
+		(at 304.8 64.135 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "41c260c9-69ef-45b6-9984-f3b256c10c5f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.3684 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI0_CLK"
 		(shape input)
 		(at 68.58 80.01 180)
@@ -22536,6 +22646,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_B_X_L"
+		(shape input)
+		(at 304.8 51.435 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4ad0af1f-5f5a-44af-b576-f209dabcac0c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.3684 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -22738,6 +22870,28 @@
 			)
 		)
 	)
+	(global_label "ADC2+"
+		(shape input)
+		(at 270.51 76.2 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "71382c29-74b9-4406-a340-3ef954945fa4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.1143 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PWM_B_Z_L"
 		(shape input)
 		(at 114.3 46.99 0)
@@ -22756,6 +22910,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ENable"
+		(shape input)
+		(at 270.51 47.625 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "787ad92b-5384-499c-b206-021bddf1381c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 260.9935 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -22980,6 +23156,28 @@
 			)
 		)
 	)
+	(global_label "CS_DRV_B"
+		(shape input)
+		(at 270.51 57.785 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ad1cd632-a45a-4932-9c93-57dfe619261c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 258.2115 57.785 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ENable"
 		(shape input)
 		(at 68.58 39.37 180)
@@ -23090,6 +23288,28 @@
 			)
 		)
 	)
+	(global_label "SPI0_RX"
+		(shape input)
+		(at 270.51 62.865 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "badb3935-9795-450c-a0bc-4143156e6127")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 259.7839 62.865 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PWM_A_Y_L"
 		(shape input)
 		(at 227.965 57.785 0)
@@ -23130,6 +23350,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_B_Y_H"
+		(shape input)
+		(at 304.8 55.245 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c93be4d9-dd68-47f5-b394-52b01db144f1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.5499 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -23200,6 +23442,28 @@
 			)
 		)
 	)
+	(global_label "ADC3+"
+		(shape input)
+		(at 270.51 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dc22fd26-206c-4de3-812b-72efcd599b09")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.1143 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PWM_A_Y_H"
 		(shape input)
 		(at 227.965 55.245 0)
@@ -23257,6 +23521,28 @@
 		(uuid "e7eeb677-a8cd-4879-beb8-7e85ad004bf1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 183.2513 60.325 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI0_TX"
+		(shape input)
+		(at 270.51 60.325 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea64921d-364a-42ad-b728-ef2b839b83e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 260.0863 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23722,6 +24008,71 @@
 			(project "pico"
 				(path "/ee499c9f-2c44-4eb0-b36d-4920617b3177"
 					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VA")
+		(at 270.51 69.215 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "30949195-9737-4c2e-a0f8-3a56b7012753")
+		(property "Reference" "#PWR0109"
+			(at 274.32 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+LDO"
+			(at 265.176 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 270.51 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 270.51 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 270.51 69.215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66c81369-0154-40d3-b23c-a1e035998e1a")
+		)
+		(instances
+			(project "pico"
+				(path "/ee499c9f-2c44-4eb0-b36d-4920617b3177"
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -24667,6 +25018,72 @@
 			(project "pico"
 				(path "/ee499c9f-2c44-4eb0-b36d-4920617b3177"
 					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 287.02 43.815 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6be5bb4b-57dd-4e5a-b020-b878d8900671")
+		(property "Reference" "#PWR0108"
+			(at 287.02 47.625 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 287.02 38.735 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 287.02 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 287.02 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 287.02 43.815 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "66484d62-912a-4e8f-bc16-8cfc4f8edcea")
+		)
+		(instances
+			(project "pico"
+				(path "/ee499c9f-2c44-4eb0-b36d-4920617b3177"
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -26944,7 +27361,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS7A2050PDBVR"
+		(property "Value" "TPS7A2033PDBVR"
 			(at 55.88 145.542 0)
 			(effects
 				(font
@@ -27537,6 +27954,208 @@
 			(project "pico"
 				(path "/ee499c9f-2c44-4eb0-b36d-4920617b3177"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 270.51 43.815)
+		(size 34.29 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 229 191 1.0000)
+		)
+		(uuid "6e86cff2-a1bf-4fce-912d-4a5b659942a3")
+		(property "Sheetname" "MotorDriver1"
+			(at 270.51 43.1034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MotorDriver.kicad_sch"
+			(at 270.51 91.3896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ADC_A" input
+			(at 270.51 73.66 180)
+			(uuid "905e2e21-c853-4e43-8f5c-2b15477f55f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DI" input
+			(at 270.51 60.325 180)
+			(uuid "207e9c67-d2d3-4ac5-a6c9-456f812b0268")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VREF" input
+			(at 270.51 69.215 180)
+			(uuid "836464b8-ecea-4cbb-a0f1-6f36067c9346")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DO" input
+			(at 270.51 62.865 180)
+			(uuid "c86bcb96-e00f-4347-b638-511dfa3f9c31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FAULT" input
+			(at 270.51 50.165 180)
+			(uuid "4c8a5835-5c53-4de6-a08e-b0eb602527b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ADC_B" input
+			(at 270.51 76.2 180)
+			(uuid "4d333c0c-bcd2-427b-8c3f-fc1333f0483d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_Y_H" input
+			(at 304.8 55.245 0)
+			(uuid "4257145c-622f-44b1-a2d5-cdf67745f55f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Z_H" input
+			(at 304.8 61.595 0)
+			(uuid "840e9566-9020-410e-99a1-45b7e390d258")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Z_L" input
+			(at 304.8 64.135 0)
+			(uuid "c776fa14-eaae-4e61-9058-07c0f7a87a87")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_X_H" input
+			(at 304.8 48.895 0)
+			(uuid "ae58c60d-7f73-4427-8d2a-92008c15f2c6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_X_L" input
+			(at 304.8 51.435 0)
+			(uuid "2ff4f35f-71d8-4c8a-adfd-8adacfac14e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_Y_L" input
+			(at 304.8 57.785 0)
+			(uuid "9b7e0681-7efa-40e3-9c69-fb1484bc1773")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "EN" input
+			(at 270.51 47.625 180)
+			(uuid "19ba707e-bdae-4730-845d-9fa21e2bfd96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CS" input
+			(at 270.51 57.785 180)
+			(uuid "3180b360-192c-4b64-9f70-1f99b68fdd10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CLK" input
+			(at 270.51 55.245 180)
+			(uuid "847de1de-d364-408d-9213-272bb181893a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "+BATT" input
+			(at 287.02 43.815 90)
+			(uuid "3a590555-b69e-4be3-873b-020e30e6c7e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "pico"
+				(path "/ee499c9f-2c44-4eb0-b36d-4920617b3177"
+					(page "3")
 				)
 			)
 		)
