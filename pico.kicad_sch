@@ -22950,7 +22950,7 @@
 	)
 	(global_label "ADC3+"
 		(shape input)
-		(at 195.58 196.85 0)
+		(at 195.58 199.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22960,7 +22960,7 @@
 		)
 		(uuid "53666c89-7141-4600-8581-7e4b1c966361")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.9757 196.85 0)
+			(at 204.9757 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23302,7 +23302,7 @@
 	)
 	(global_label "ADC2+"
 		(shape input)
-		(at 195.58 199.39 0)
+		(at 195.58 196.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23312,7 +23312,7 @@
 		)
 		(uuid "88644e6a-52b3-4c6d-9ff9-85bc2381db2c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.9757 199.39 0)
+			(at 204.9757 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
