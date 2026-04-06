@@ -2295,7 +2295,7 @@
 	)
 	(text "DRIVER_CHANNEL_CONNECTION\n"
 		(exclude_from_sim no)
-		(at 115.316 116.078 90)
+		(at 115.57 115.57 90)
 		(effects
 			(font
 				(size 1.27 1.27)
