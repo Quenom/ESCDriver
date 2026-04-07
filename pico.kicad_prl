@@ -9,7 +9,7 @@
     "hidden_nets": [
       "GND"
     ],
-    "high_contrast_mode": 2,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -53,7 +53,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_fff7ffff",
+    "visible_layers": "ffffffff_ffffffff_ffffd575_f755555e",
     "zone_display_mode": 0
   },
   "git": {
@@ -100,7 +100,7 @@
       91,
       71,
       91,
-      347
+      91
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
