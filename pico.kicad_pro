@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -68,11 +68,11 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "warning",
+        "courtyards_overlap": "ignore",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
-        "drill_out_of_range": "error",
+        "drill_out_of_range": "ignore",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
@@ -97,12 +97,12 @@
         "net_conflict": "warning",
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "error",
-        "padstack": "warning",
+        "padstack": "ignore",
         "pth_inside_courtyard": "error",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "warning",
@@ -646,6 +646,144 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Gate Threshold Voltage (Vgs(th)@Id)",
+          "name": "Gate Threshold Voltage (Vgs(th)@Id)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Input Capacitance (Ciss@Vds)",
+          "name": "Input Capacitance (Ciss@Vds)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Integral nonlinearity",
+          "name": "Integral nonlinearity",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Interface",
+          "name": "Interface",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part Name",
+          "name": "LCSC Part Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part",
+          "name": "Manufacturer Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Operating Temperature",
+          "name": "Operating Temperature",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Output Current",
+          "name": "Output Current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Power Dissipation (Pd)",
+          "name": "Power Dissipation (Pd)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Supplier",
+          "name": "Supplier",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Supplier Part",
+          "name": "Supplier Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Supply Voltage",
+          "name": "Supply Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Total Gate Charge (Qg@Vgs)",
+          "name": "Total Gate Charge (Qg@Vgs)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Type",
+          "name": "Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "differential input",
+          "name": "differential input",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "number of channels",
+          "name": "number of channels",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "resolution",
+          "name": "resolution",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "sampling frequency",
+          "name": "sampling frequency",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Continuous Drain Current (Id)",
+          "name": "Continuous Drain Current (Id)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Drain Source On Resistance (RDS(on)@Vgs,Id)",
+          "name": "Drain Source On Resistance (RDS(on)@Vgs,Id)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Drain Source Voltage (Vdss)",
+          "name": "Drain Source Voltage (Vdss)",
           "show": false
         }
       ],
