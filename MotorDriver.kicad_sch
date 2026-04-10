@@ -2637,7 +2637,7 @@
 	)
 	(wire
 		(pts
-			(xy 103.505 97.79) (xy 106.68 97.79)
+			(xy 85.09 115.57) (xy 96.52 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2674,6 +2674,16 @@
 			(type default)
 		)
 		(uuid "2c5f78f6-a01a-4bcf-b34a-3dc782c6b0de")
+	)
+	(wire
+		(pts
+			(xy 96.52 115.57) (xy 96.52 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e332275-6047-4135-bbff-1bda150fa382")
 	)
 	(wire
 		(pts
@@ -3124,6 +3134,16 @@
 			(type default)
 		)
 		(uuid "89ce622f-1de2-4e2e-8c34-cca4ac8e253f")
+	)
+	(wire
+		(pts
+			(xy 96.52 97.79) (xy 106.68 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bda9265-a9ab-4d8e-9571-23d14d964f18")
 	)
 	(wire
 		(pts
@@ -4169,7 +4189,7 @@
 	)
 	(hierarchical_label "+BATT"
 		(shape input)
-		(at 103.505 97.79 180)
+		(at 85.09 115.57 180)
 		(effects
 			(font
 				(size 1.27 1.27)
