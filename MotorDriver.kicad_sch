@@ -4877,7 +4877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "COMPONENTS:1206_Resistor"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 203.962 60.96 90)
 			(effects
 				(font
@@ -5635,7 +5635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "COMPONENTS:1206_Resistor"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 89.662 60.96 90)
 			(effects
 				(font
@@ -5709,7 +5709,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "COMPONENTS:1206_Resistor"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 146.812 60.96 90)
 			(effects
 				(font
